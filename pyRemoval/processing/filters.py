@@ -283,6 +283,7 @@ def timeblur_sliding(frames_queue, filter_params):
     frame = cv2.merge([bAvg, gAvg, rAvg]).astype("uint8")
 
     return frame
+    
 
 def boilerplate_filter(frame, filter_params):
     '''
