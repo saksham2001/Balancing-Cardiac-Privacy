@@ -1,5 +1,5 @@
 # Balancing Cardiac Privacy with Quality in Video Recordings
-[![DOI](https://zenodo.org/)](https://zenodo.org/doi/)
+[![DOI](https://zenodo.org/badge/747528393.svg)](https://zenodo.org/doi/10.5281/zenodo.15734097)
 
 ## Summary
 Facial videos can reveal hidden health information, such as heart rate, by analyzing subtle changes in skin color. While this can help with remote health monitoring, it also poses serious privacy risks, as health data can be extracted without permission. In this study, we propose a new method to protect such information. Our approach allows health signals to be removed from a video, encrypted, securely transmitted, and later restored by an authorized recipient. This reversible method keeps the video looking natural while ensuring that sensitive data cannot be misused. We test our framework on a set of real videos and show that it works reliably across different activities. This work could improve privacy in video calls, telehealth, and other everyday video applications.
