@@ -52,7 +52,7 @@ If you use any of the data or resources provided on this page in any of your pub
 ```add citation here``` -->
 
 ## Contact
-If you have any questions, please feel free to contact us though email: Saksham Bhutani (sakshambhutani2001@gmail.com) or Mohamed Elgendi (moe.elgendi@hest.ethz.ch)
+If you have any questions, please feel free to contact us though email: Saksham Bhutani (sakshambhutani2001@gmail.com) or Mohamed Elgendi (mohamed.elgendi@ku.ac.ae)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/saksham2001/Balancing-Cardiac-Privacy/blob/main/LICENSE) file for details.
